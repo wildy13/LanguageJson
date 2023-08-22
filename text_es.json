@@ -1,0 +1,12 @@
+{
+    "items": [
+        {
+            "key":"ESTA_ES_MI_PRIMERA_CLAVE",
+            "value":"esta es mi primera prueba en español"
+        },
+        {
+            "key":"",
+            "value":""
+        }
+    ]
+}
