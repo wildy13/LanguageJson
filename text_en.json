@@ -1,7 +1,7 @@
 {
     "items": [
         {
-            "key":"THIS_IS_MY_FIRST_KEY",
+            "key":"key1",
             "value":"This is my first test in English"
         },
         {
